@@ -47,6 +47,8 @@ SkillCatalyst-AI/
 │── README.md
 │── .gitignore
 │── .env (local only)
+│── sample_input/
+│── sample_output/
 
 ```
 
@@ -56,25 +58,22 @@ SkillCatalyst-AI/
 
 1️. Clone Repository
 
-```bash
-git clone https://github.com/Sonalikasingh17/SkillCatalyst-AI.git
-cd SkillCatalyst-AI 
-```
+  ```bash
+  git clone https://github.com/Sonalikasingh17/SkillCatalyst-AI.git
+  cd SkillCatalyst-AI 
+  ```
 
-2. Create Virtual Environment
+2️. Create Virtual Environment
+  ```bash
+  python -m venv venv
+  ```
 
-```bash
-
-python -m venv venv
-```
-
-# Activate environment:
-```
-venv\Scripts\activate # On Windows
-
-source venv/bin/activate  # On mac/Linux
-
-```
+#####  Activate environment:
+  ```
+  venv\Scripts\activate # On Windows
+  source venv/bin/activate  # On mac/Linux
+  
+  ```
 
 3️. Install Requirements
 
