@@ -140,7 +140,7 @@ For easy testing and review, the sample resume and job description I used in thi
 
 ## 🎥 Demo Video
 
-Demo Link: [SkillCatalyst AI Demo](https://www.loom.com/share/your-demo-video-link)
+Demo Link: [SkillCatalyst AI Demo](https://drive.google.com/file/d/1Phta1DgPNXZn2Ay_I7ejT-OoE-ekZdJF/view?usp=drive_link)
 
 --- 
 
