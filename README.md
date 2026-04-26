@@ -48,6 +48,8 @@ SkillCatalyst-AI/
 │── .gitignore
 │── .env (local only)
 
+```
+
 ---
 
 ## ⚙️ Installation & Setup
@@ -57,16 +59,22 @@ SkillCatalyst-AI/
 ```bash
 git clone https://github.com/Sonalikasingh17/SkillCatalyst-AI.git
 cd SkillCatalyst-AI 
+```
 
 2. Create Virtual Environment
 
 ```bash
 
 python -m venv venv
+```
 
 # Activate environment:
+```
+venv\Scripts\activate # On Windows
+
 source venv/bin/activate  # On mac/Linux
-venv/bin/activate  # On Windows
+
+```
 
 3️. Install Requirements
 
@@ -77,8 +85,9 @@ pip install -r requirements.txt
 4️. Create .env File
 Create a file named .env in the project root directory and add your OpenRouter API key:
 
-''' env
-OPENROUTER_API_KEY=your_api_key_here'''
+```env
+OPENROUTER_API_KEY=your_api_key_here 
+```
 
 5️. Run Streamlit App
 
@@ -90,11 +99,14 @@ streamlit run app.py
 
 ## 💡 How It Works
 
-Input:
-- Upload Resume PDF
+### Input:
+- Upload Resume PDF 
 - Paste Job Description
 
-Output:
+### 🧪 Sample Test Input
+For easy testing and review, the sample resume and job description I used in this project are included in the **sample_input/** folder of this repository.
+
+### Output:
 - Match Score
 - Hiring Verdict
 - Strengths
@@ -103,29 +115,27 @@ Output:
 - Interview Questions
 - Learning Roadmap
 - Career Suggestions
-- Downloadable Report
+- [Download Sample Report](sample_output/sample_report.txt)
 
 ---
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Home Page
-![Home](screenshots/home.png)
+![Home](sample_output/screenshots/home.png)
 
 ### Recruiter Dashboard
-![Dashboard](screenshots/recruiter-dashboard.png)
+![Dashboard](sample_output/screenshots/recruiter-dashboard.png)
 
 ### Candidate Evaluation
-![Evaluation](screenshots/candidate-evaluation(1).png)
-![Evaluation](screenshots/candidate-evaluation(2).png)
+![Evaluation 1](sample_output/screenshots/candidate-evaluation(1).png)
+![Evaluation 2](sample_output/screenshots/candidate-evaluation(2).png)
 
 ### Learning Roadmap
-![Roadmap](screenshots/learning-roadmap.png)
+![Roadmap](sample_output/screenshots/learning-roadmap.png)
 
-### Learning Roadmap
-![Recommendation](screenshots/career-paths.png)
+### Recommended Career Paths
+![Recommendation](sample_output/screenshots/career-paths.png)
 
 ---
 
@@ -179,10 +189,9 @@ This makes it more than a chatbot — it behaves like a task-solving AI assistan
 
 ## 👩‍💻 Author
 
-Sonalika Singh
-
-IIT Madras
-Mathematics Postgraduate
+**Sonalika Singh**  
+IIT Madras  
+Mathematics Postgraduate  
 Data Science & AI Enthusiast
 
 GitHub: https://github.com/Sonalikasingh17
