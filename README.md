@@ -114,7 +114,7 @@ For easy testing and review, the sample resume and job description I used in thi
 - Interview Questions
 - Learning Roadmap
 - Career Suggestions
-- [Download Sample Report](sample_output/sample_report.txt)
+- [Download Sample Report](sample_output/sample_report.pdf)
 
 ---
 
