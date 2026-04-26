@@ -10,6 +10,12 @@ The system compares a **Resume + Job Description**, evaluates candidate-job fit,
 
 ---
 
+## 🌐 Live Demo
+
+🚀 Live App: [SkillCatalyst AI](https://skillcatalyst-ai-3nt5waf4dyqsucjpjcnv6y.streamlit.app/)
+
+---
+
 ## 🎯 Problem Statement
 
 A resume shows what a candidate claims to know, but not how well they know it.
