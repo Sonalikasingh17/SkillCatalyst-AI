@@ -2,7 +2,7 @@
 
 ## AI Skill Assessment & Personalized Learning Agent
 
-SkillCatalyst AI is an intelligent hiring assistant built for the **Deccan AI Catalyst Hackathon**.
+SkillCatalyst AI is an intelligent hiring assistant built for the **Deccan AI Catalyst Hackathon**. 
 
 It helps recruiters go beyond resumes and understand whether a candidate is truly suitable for a job role.
 
@@ -85,7 +85,7 @@ SkillCatalyst-AI/
 
 ```bash
 pip install -r requirements.txt
-```
+``` 
 
 4️. Create .env File
 Create a file named .env in the project root directory and add your OpenRouter API key:
