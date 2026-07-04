@@ -5,7 +5,7 @@
 SkillCatalyst AI is an intelligent hiring assistant built for the **Deccan AI Catalyst Hackathon**. 
 
 It helps recruiters go beyond resumes and understand whether a candidate is truly suitable for a job role.
-
+ 
 The system compares a **Resume + Job Description**, evaluates candidate-job fit, identifies missing skills, gives hiring insights, and creates a personalized learning roadmap.
 
 ---
